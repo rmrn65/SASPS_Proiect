@@ -1,6 +1,6 @@
 package com.example.saspsapp.run;
 
-import com.example.saspslib.arithmetic.ArithmeticCalculator;
+import com.example.saspsapp.arithmetic.ArithmeticCalculator;
 
 
 import lombok.NoArgsConstructor;
